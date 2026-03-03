@@ -1,4 +1,8 @@
 using System;
 
-// README.md를 읽고 코드를 작성하세요.
-Console.WriteLine("코드를 작성하세요.");
+object[] data = { 42, 3.14, "Hello", true, 100, "World", false, 2.718 };
+
+void PrintData(object data)
+{ 
+    
+}
